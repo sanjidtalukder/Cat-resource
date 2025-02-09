@@ -36,4 +36,23 @@ text-align: left;
 .fa-solid{
     color: #F9DF8A;
 }
-
+.under-price {
+    background-image: url('image/cute-dog-mid.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    border-radius: 12px;
+    margin: 18px;
+    padding: 12px;
+    /* background-color: #F8CCFB; /* Fallback color */
+    /* background: linear-gradient(134.71deg, rgb(248, 204, 251) 1.286%, rgb(172, 210, 253) 100%); */ 
+}
+.under-prices{
+    background-image: url('image/cute-pet-mid.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    border-radius: 12px;
+    margin: 18px;
+    padding: 12px;
+}
