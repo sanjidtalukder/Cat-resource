@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-img{
+    background-image: url('image/cat-big.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pamper{
+    color: rgb(17, 17, 17);
+font-family: ADLaM Display;
+font-size: 56px;
+font-weight: 400;
+line-height: 56px;
+text-align: left;
+}
+.world{
+    color: gray;
+font-family: Sora;
+font-size: 20px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
