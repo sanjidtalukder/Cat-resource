@@ -25,3 +25,15 @@ line-height: 36px;
 letter-spacing: 0%;
 text-align: left;
 }
+.bg-image{
+    background-image: url('image/cute-pet-mid.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+    border-radius: 8px;
+    
+}
+.fa-solid{
+    color: #F9DF8A;
+}
+
